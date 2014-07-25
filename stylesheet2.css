@@ -1,0 +1,58 @@
+body 
+{
+
+	background-color: #000000;
+	font-family: "Helvetica",Arial;
+	text-align: center;
+}
+#contenido
+{
+	width: 960px;
+	margin:0 auto;
+	text-align:center; 
+}
+h1
+{
+	color: #FFFFFF;
+	text-align: center;
+
+}
+h2
+{
+	color :#000000;
+	text-align: center;
+}
+nav ul li
+{
+	display: inline-block;
+	margin-right: 20px;
+	color:#336699 
+	text-align: center;
+	cursor: pointer;
+
+}
+#TextoPr
+{
+	width: 660px;
+	height: 400px;
+	background-color:#CCCCCC ;
+	color :#e44e2d;
+	margin: 0 auto;
+	text-align: center; 
+	border-radius: 20px;
+	padding: 20px;
+
+	
+
+
+
+	
+}
+a
+{
+	color: #336699 ;
+}
+p
+{
+	color: #000000;
+}
